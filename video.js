@@ -1,6 +1,6 @@
 const videos = [
     { id: 1, title: "CMB ", filename: "video1.mp4", thumbnail: "thumb1.jpg", duration: "2:45", category: "nature" },
-    { id: 2, title: "সুরা বাকারা", filename: "video2.mp4", thumbnail: "thumb2.jpg", duration: "1:55:09", category: "Surah" },
+    { id: 2, title: "সুরা মুলক", filename: "video2.mp4", thumbnail: "thumb2.jpg", duration: "8:11", category: "Surah" },
     { id: 3, title: "City Tour", filename: "video3.mp4", thumbnail: "thumb3.jpg", duration: "3:30", category: "activities" },
     { id: 4, title: "Saturday Party", filename: "video4.mp4", thumbnail: "thumb4.jpg", duration: "5:20", category: "events" },
     { id: 5, title: "Concert Night", filename: "video5.mp4", thumbnail: "thumb5.jpg", duration: "6:15", category: "events" },
