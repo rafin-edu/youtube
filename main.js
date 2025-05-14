@@ -67,8 +67,8 @@ const videos = [
     { 
         id: 9,
         title: "Forest Walk", 
-        filename: "video4.mp4", 
-        thumbnail: "thumb4.jpg",
+        filename: "video9.mp4", 
+        thumbnail: "thumb9.jpg",
         duration: "4:10",
         category: "nature"
     },
