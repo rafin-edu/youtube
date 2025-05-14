@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>My Video Gallery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Gallery</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="app-container">
-        <!-- Header with Search -->
         <header class="app-header">
             <div class="search-container">
                 <i class="fas fa-search"></i>
@@ -20,37 +19,21 @@
             </button>
         </header>
 
-        <!-- Category Tabs -->
         <div class="category-tabs">
             <button class="tab active" data-category="all">All</button>
             <button class="tab" data-category="events">Events</button>
-            <button class="tab" data-category="nature">Nature</button>
-            <button class="tab" data-category="activities">Activities</button>
+            <button class="tab" data-category="surah">Surah</button>
         </div>
 
-        <!-- Video Grid -->
         <main class="video-grid" id="video-grid">
-            <!-- Videos will be loaded here -->
+            <!-- Videos will load here -->
         </main>
 
-        <!-- Upload Button -->
-        <div class="upload-fab">
-            <i class="fas fa-plus"></i>
-            <input type="file" id="video-upload" accept="video/*" multiple>
-        </div>
-
-        <!-- Video Player -->
         <div class="video-player" id="video-player">
-            <div class="player-container" id="player-container">
-                <video 
-                    id="main-video" 
-                    controls 
-                    playsinline 
-                    webkit-playsinline 
-                    x-webkit-airplay="allow"
-                ></video>
+            <div class="player-container">
+                <video id="main-video" controls playsinline webkit-playsinline></video>
                 <div class="player-controls">
-                    <button class="back-btn" onclick="closePlayer()">
+                    <button class="back-btn" id="back-btn">
                         <i class="fas fa-arrow-left"></i>
                     </button>
                     <h3 id="video-title"></h3>
@@ -59,6 +42,7 @@
         </div>
     </div>
 
-    <script src="main.js"></script>
+    <script src="main.js" type="module"></script>
+       <script src="video.js" type="module"></script>
 </body>
 </html>
