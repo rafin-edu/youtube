@@ -22,15 +22,15 @@ const videos = [
         filename: "video3.mp4", 
         thumbnail: "thumb3.jpg",
         duration: "14:36",
-        category: "nature"
+        category: "surah"
     },
     { 
         id: 4,
-        title: "Forest Walk", 
+        title: "Surah Baqara Part-3 ", 
         filename: "video4.mp4", 
         thumbnail: "thumb4.jpg",
         duration: "4:10",
-        category: "nature"
+        category: "surah"
     },
     { 
         id: 5,
