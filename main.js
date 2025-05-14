@@ -5,7 +5,7 @@ const videos = [
         title: "Surah Baqara Part-1", 
         filename: "video1.mp4", 
         thumbnail: "thumb1.jpg",
-        duration: "2:45",
+        duration: "15:00",
         category: "surah"
     },
     { 
@@ -13,7 +13,7 @@ const videos = [
         title: "Surah Muluk", 
         filename: "video2.mp4", 
         thumbnail: "thumb2.jpg",
-        duration: "3:20",
+        duration: "8:10",
         category: "surah"
     },
     { 
