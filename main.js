@@ -18,10 +18,10 @@ const videos = [
     },
     { 
         id: 3,
-        title: "Mountain View", 
+        title: "Surah Baqara Part-2", 
         filename: "video3.mp4", 
         thumbnail: "thumb3.jpg",
-        duration: "2:15",
+        duration: "14:36",
         category: "nature"
     },
     { 
