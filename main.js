@@ -1,6 +1,6 @@
 // Video data
-const videos = [
-    { 
+const videos = 
+{
         id: 1,
         title: "Surah Baqara Part-1", 
         filename: "video1.mp4", 
@@ -84,7 +84,7 @@ const videos = [
     
     { 
         id: 11,
-        title:"Organic Chemistry Part-2"
+        title:"Organic Chemistry Part-2",
         filename: "video11.mp4", 
         thumbnail: "thumb11.jpg",
         duration: "5:20",
