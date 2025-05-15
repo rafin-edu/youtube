@@ -1,5 +1,6 @@
 // Video data
 const videos = 
+ [
 {
         id: 1,
         title: "Surah Baqara Part-1", 
