@@ -77,31 +77,14 @@ const videos = [
         title: "জৈব রসায়ন Part-1", 
         filename: "video10.mp4", 
         thumbnail: "thumb10.jpg",
-        duration: "3:45",
-        category: "nature"
+        duration: "19:18",
+        category: "chemistry"
     },
     
     
     { 
         id: 11,
-        title:" 6 জব রসায়ন" জব
-জব
-জবজব
-জব
-
-জজজ
-
-
-জ
-জজ
-জজজজ
-
-
-
-জ
-
-
-
+        title:"Organic Chemistry Part-2"
         filename: "video11.mp4", 
         thumbnail: "thumb11.jpg",
         duration: "5:20",
@@ -116,6 +99,7 @@ const videos = [
         category: "food"
     },
     { 
+        
         id: 13,
         title: "Rainy Day", 
         filename: "video13.mp4", 
