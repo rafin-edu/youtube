@@ -74,12 +74,174 @@ const videos = [
     },
     { 
         id: 10,
-        title: "Sunset Beach", 
+        title: "জৈব রসায়ন Part-1", 
         filename: "video10.mp4", 
         thumbnail: "thumb10.jpg",
         duration: "3:45",
         category: "nature"
-    }
+    },
+    
+    
+    { 
+        id: 11,
+        title: "Night Sky", 
+        filename: "video11.mp4", 
+        thumbnail: "thumb11.jpg",
+        duration: "5:20",
+        category: "nature"
+    },
+    { 
+        id: 12,
+        title: "Baking Tutorial", 
+        filename: "video12.mp4", 
+        thumbnail: "thumb12.jpg",
+        duration: "7:15",
+        category: "food"
+    },
+    { 
+        id: 13,
+        title: "Rainy Day", 
+        filename: "video13.mp4", 
+        thumbnail: "thumb13.jpg",
+        duration: "2:30",
+        category: "urban"
+    },
+    { 
+        id: 14,
+        title: "Wildlife Documentary", 
+        filename: "video14.mp4", 
+        thumbnail: "thumb14.jpg",
+        duration: "8:45",
+        category: "nature"
+    },
+    { 
+        id: 15,
+        title: "Morning Routine", 
+        filename: "video15.mp4", 
+        thumbnail: "thumb15.jpg",
+        duration: "6:10",
+        category: "lifestyle"
+    },
+    { 
+        id: 16,
+        title: "Abstract Art", 
+        filename: "video16.mp4", 
+        thumbnail: "thumb16.jpg",
+        duration: "3:55",
+        category: "art"
+    },
+    { 
+        id: 17,
+        title: "Tropical Island", 
+        filename: "video17.mp4", 
+        thumbnail: "thumb17.jpg",
+        duration: "4:25",
+        category: "nature"
+    },
+    { 
+        id: 18,
+        title: "Cooking Pasta", 
+        filename: "video18.mp4", 
+        thumbnail: "thumb18.jpg",
+        duration: "5:40",
+        category: "food"
+    },
+    { 
+        id: 19,
+        title: "Northern Lights", 
+        filename: "video19.mp4", 
+        thumbnail: "thumb19.jpg",
+        duration: "4:50",
+        category: "nature"
+    },
+    { 
+        id: 20,
+        title: "Yoga Session", 
+        filename: "video20.mp4", 
+        thumbnail: "thumb20.jpg",
+        duration: "10:15",
+        category: "fitness"
+    },
+    { 
+        id: 21,
+        title: "Mountain Hike", 
+        filename: "video21.mp4", 
+        thumbnail: "thumb21.jpg",
+        duration: "5:22",
+        category: "nature"
+    },
+    { 
+        id: 22,
+        title: "Ocean Waves", 
+        filename: "video22.mp4", 
+        thumbnail: "thumb22.jpg",
+        duration: "2:15",
+        category: "nature"
+    },
+    { 
+        id: 23,
+        title: "City Time-lapse", 
+        filename: "video23.mp4", 
+        thumbnail: "thumb23.jpg",
+        duration: "1:45",
+        category: "urban"
+    },
+    { 
+        id: 24,
+        title: "Desert Sunset", 
+        filename: "video24.mp4", 
+        thumbnail: "thumb24.jpg",
+        duration: "3:30",
+        category: "nature"
+    },
+    { 
+        id: 25,
+        title: "Coffee Making", 
+        filename: "video25.mp4", 
+        thumbnail: "thumb25.jpg",
+        duration: "4:12",
+        category: "food"
+    },
+    { 
+        id: 26,
+        title: "Snowfall", 
+        filename: "video26.mp4", 
+        thumbnail: "thumb26.jpg",
+        duration: "2:50",
+        category: "nature"
+    },
+    { 
+        id: 27,
+        title: "Street Performance", 
+        filename: "video27.mp4", 
+        thumbnail: "thumb27.jpg",
+        duration: "6:18",
+        category: "urban"
+    },
+    { 
+        id: 28,
+        title: "Waterfall", 
+        filename: "video28.mp4", 
+        thumbnail: "thumb28.jpg",
+        duration: "3:05",
+        category: "nature"
+    },
+    { 
+        id: 29,
+        title: "Forest Walk", 
+        filename: "video29.mp4", 
+        thumbnail: "thumb29.jpg",
+        duration: "4:10",
+        category: "nature"
+    },
+    { 
+        id: 30,
+        title: "Sunset Beach", 
+        filename: "video30.mp4", 
+        thumbnail: "thumb30.jpg",
+        duration: "3:45",
+        category: "nature"
+    },
 
 ];
     // ... (other video objects)
