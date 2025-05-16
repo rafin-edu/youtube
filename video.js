@@ -30,7 +30,7 @@ const videos =
         title: "Surah Baqara Part-3 ", 
         filename: "video4.mp4", 
         thumbnail: "thumb4.jpg",
-        duration: "4:10",
+        duration: "14:51",
         category: "surah"
     },
     { 
@@ -85,44 +85,44 @@ const videos =
     
     { 
         id: 11,
-        title:"Organic Chemistry Part-2",
+        title:"জৈব রসায়ন Part-2",
         filename: "video11.mp4", 
         thumbnail: "thumb11.jpg",
-        duration: "5:20",
-        category: "nature"
+        duration: "18:09",
+        category: "chemistry"
     },
     { 
         id: 12,
-        title: "Baking Tutorial", 
+        title: "জৈব রসায়ন Part-3", 
         filename: "video12.mp4", 
         thumbnail: "thumb12.jpg",
-        duration: "7:15",
-        category: "food"
+        duration: "16:55",
+        category: "chemistry"
     },
     { 
         
         id: 13,
-        title: "Rainy Day", 
+        title: "জৈব রসায়ন Part-4", 
         filename: "video13.mp4", 
         thumbnail: "thumb13.jpg",
-        duration: "2:30",
-        category: "urban"
+        duration: "28:18",
+        category: "chemistry"
     },
     { 
         id: 14,
-        title: "Wildlife Documentary", 
+        title: "জৈব রসায়ন Part-5", 
         filename: "video14.mp4", 
         thumbnail: "thumb14.jpg",
-        duration: "8:45",
-        category: "nature"
+        duration: "43:22",
+        category: "chemistry"
     },
     { 
         id: 15,
-        title: "Morning Routine", 
+        title: "জৈব রসায়ন Part-6", 
         filename: "video15.mp4", 
         thumbnail: "thumb15.jpg",
-        duration: "6:10",
-        category: "lifestyle"
+        duration: "13:45",
+        category: "chemistry"
     },
     { 
         id: 16,
